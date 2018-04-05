@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dictaphone</string>
+    <string name="ok">OK </string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+
+</resources>
